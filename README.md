@@ -1,2 +1,2 @@
-# weather_prediction-
-I have done Weather prediction web using python
+# Weather forecasting web
+ I have created the weather forecasting web page using python
